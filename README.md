@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@aayushyak" target="blank"><img src="https://img.shields.io/twitter/follow/@aayushyak?logo=twitter&style=for-the-badge" alt="@aayushyak" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript.**
 
-- 💬 Ask me about **html,css and JavaScript**
+- 💬 Ask me about **html,css and JavaScript.**
 
-- 📫 How to reach me **aayushyakumar404@gmail.comI**
+- 📫 How to reach me **aayushyakumar404@gmail.comI.**
 
-- ⚡ Fun fact **You also first hesitated on using this platform**
+- ⚡ Fun fact **You also first hesitated on using this platform.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
