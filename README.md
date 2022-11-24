@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html,css and JavaScript.**
 
-- 📫 How to reach me **aayushyakumar404@gmail.comI.**
+- 📫 How to reach me **aayushyakumar404@gmail.com.**
 
 - ⚡ Fun fact **You also first hesitated on using this platform.**
 
