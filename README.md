@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aayushya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="450" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" width="450" src="https://gifimage.net/wp-content/uploads/2018/06/thinking-anime-gif-11.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushyakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aayushyakumar" /> </p>
 
