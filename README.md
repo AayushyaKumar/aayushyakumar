@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/QS-gLMojgV8AAAAC/anime-boys.gif" alt="intro image" align="right" width="400 " height="500">
 <p align="left"> <a href="https://twitter.com/aayushyak" target="blank"><img src="https://img.shields.io/twitter/follow/aayushyak?logo=twitter&style=for-the-badge" alt="aayushyak" /></a> </p>
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Backend Development**.
 
 - 💬 Ask me about **html,css,javacript,git & react**.
 
