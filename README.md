@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aayushya Kumar</h1>
 <h3 align="center">A passionate developer from India!!</h3>
-<br><br> <br>
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer is coding" align = "right" width="400" height="400"> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushyakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aayushyakumar" /> </p>
-
+<br><br> <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushyakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aayushyakumar" /> </p>
 <p align="left"> <a href="https://twitter.com/aayushyak" target="blank"><img src="https://img.shields.io/twitter/follow/aayushyak?logo=twitter&style=for-the-badge" alt="aayushyak" /></a>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer is coding" align = "right" width="400" height="400"> </p>
+
+
+
+
+
+
 
 
 - 🌱 I’m currently doing **Backend Development**.
