@@ -5,12 +5,6 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer is coding" align = "right" width="400" height="400"> </p>
 
 
-
-
-
-
-
-
 - 🌱 I’m currently doing **Backend Development**.
 
 - 💬 Ask me about **Web Development**.
@@ -24,7 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aayushyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushyak" height="30" width="40" /></a>
-<a href="https://instagram.com/aayushya519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushya519" height="30" width="40" /></a>
+<a href="https://discord.gg/aayushya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aayushya" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
