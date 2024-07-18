@@ -24,7 +24,7 @@
 </p>
 
 ### Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,react,tailwindcss,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
 
 <hr>
 <br>
