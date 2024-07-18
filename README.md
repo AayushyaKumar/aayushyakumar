@@ -19,12 +19,12 @@
 <p align="left">
 <a href="https://twitter.com/aayushyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushyak" height="30" width="40" /></a>
 <a href="https://discord.gg/aayushya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aayushya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayushya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushya kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayushya-kumar/-a604b8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushya kumar" height="30" width="40" /></a>
 
 </p>
 
 ### Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
 
 <hr>
 <br>
