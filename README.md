@@ -5,15 +5,11 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer is coding" align = "right" width="400" height="350"> </p>
 
 
-- 🌱 I’m currently doing **Backend Development**.
-
-- 💬 Ask me about **Web Development**.
+- 🌱 Architecting scalable full-stack applications with modern technologies .
 
 - 💡 Exploring the realms of **GenAI and transformers**.  
 
 - 📫 Reach me at **aayushyakumar404@gmail.com**.
-
-- ⚡ Fun fact **You also hesitated first while using this platform**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,15 +17,13 @@
 <a href="https://discord.gg/aayushya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aayushya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayushya-kumar/-a604b8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushya kumar" height="30" width="40" /></a>
 
-</p>
 
 ### Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,react,tailwindcss,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,react,tailwindcss,nodejs,express,docker,mongodb&theme=light)](https://skillicons.dev)
 
 <hr>
 <br>
 <div align="center">
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushyakumar&theme=dark" alt="aayushyakumar" width="500" /></p>
 <br>
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushyakumar&theme=radical&hide_border=true)
